@@ -1,2 +1,2 @@
-# Self Learning Bot
-A personal project to create a bot that will understand your intentions based on merely the input that you give
+GDSC workshops
+Workshop Notebooks meant to teach students the basics of AI using Google Colab and TensorFlow
